@@ -365,7 +365,4 @@
 
 
 
-<p class="has-text-align-center"><br></p>
-<div class="post-views content-post post-5393 entry-meta load-static">
-				<span class="post-views-icon dashicons dashicons-chart-bar"></span> <span class="post-views-label">Post Views:</span> <span class="post-views-count">2</span>
-			</div>		</div>
+	</div>
